@@ -1,4 +1,4 @@
-package linkedlist1;
+package ooap1.linkedlist1;
 
  interface LinkedList<T> {
     // интерфейс класса, реализующий АТД LinkedList

@@ -1,4 +1,4 @@
-package queue1;
+package ooap1.queue1;
 
 import java.util.LinkedList;
 

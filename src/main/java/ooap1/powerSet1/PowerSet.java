@@ -1,4 +1,4 @@
-package powerSet1;
+package ooap1.powerSet1;
 
 public class PowerSet<T> extends HashTable<T> {
 

@@ -1,4 +1,4 @@
-package boundedstack1;
+package ooap1.boundedstack1;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package twoWayList1;
+package ooap1.twoWayList1;
 
 public class LinkedList<T> extends ParentList<T> {
 

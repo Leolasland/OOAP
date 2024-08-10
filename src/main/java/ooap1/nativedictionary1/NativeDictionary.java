@@ -1,4 +1,4 @@
-package nativedictionary1;
+package ooap1.nativedictionary1;
 
 public class NativeDictionary<T> {
 

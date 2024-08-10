@@ -1,5 +1,6 @@
-package boundedstack1;
+package ooap1.boundedstack1;
 
+import ooap1.boundedstack1.BoundedStack;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

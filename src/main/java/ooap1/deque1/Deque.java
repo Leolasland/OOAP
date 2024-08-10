@@ -1,4 +1,4 @@
-package deque1;
+package ooap1.deque1;
 
 public class Deque<T> extends ParentQueue<T> {
     public final int REMOVE_TAIL_NIL = 0;

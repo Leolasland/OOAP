@@ -1,4 +1,4 @@
-package deque1;
+package ooap1.deque1;
 
 public class Queue<T> extends ParentQueue<T> {
 

@@ -1,4 +1,4 @@
-package dynArray1;
+package ooap1.dynArray1;
 
 public class DynArray<T> {
 

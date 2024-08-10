@@ -1,4 +1,4 @@
-package bloomFilter1;
+package ooap1.bloomFilter1;
 
 public class BloomFilter<T> {
 

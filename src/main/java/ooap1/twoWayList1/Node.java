@@ -1,4 +1,4 @@
-package twoWayList1;
+package ooap1.twoWayList1;
 
 public class Node<T> {
     T value;

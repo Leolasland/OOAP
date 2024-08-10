@@ -1,4 +1,4 @@
-package deque1;
+package ooap1.deque1;
 
 import java.util.LinkedList;
 

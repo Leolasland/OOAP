@@ -1,4 +1,4 @@
-package powerSet1;
+package ooap1.hashtable1;
 
 import java.util.Objects;
 
