@@ -18,7 +18,7 @@ class Monk extends Unit { // наследование
 
     // переопределение
     @Override
-    public String castStoneSkin() { // переопределение
+    public String castStoneSkin() {
         return "Stone skin on Monk!";
     }
 }
@@ -28,7 +28,7 @@ class Druid extends Unit { // наследование
 
     // переопределение
     @Override
-    public String castStoneSkin() { // переопределение
+    public String castStoneSkin() {
         return "Stone skin on Druid!";
     }
 }
@@ -42,7 +42,7 @@ public class Exercise {
 
         Unit[] units = new Unit[]{unit, unit1, unit2};
         for (Unit u : units) {
-            System.out.println(u.castStoneSkin());
+            System.out.println(u.castStoneSkin()); // Динамическое связывание
         }
     }
 }
